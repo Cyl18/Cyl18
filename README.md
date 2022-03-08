@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Cyl18&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_rank=true)
 
-一个只会 CRUD, 调 API 的 script kiddo.
-
-永远感谢 [baka-gourd](https://github.com/baka-gourd) [TUsama](https://github.com/TUsama) [ChromaPIE](https://github.com/ChromaPIE) [WuzgXY](https://github.com/WuzgXY-GitHub) 为 Minecraft 模组简体中文翻译项目做出的贡献.
+<未将对象引用设置到对象的实例>
 
 <!--
 **Cyl18/Cyl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
