@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=Cyl18&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_rank=true)
 -->
-<If you are not enjoy it, you are doing it wrong.>
+<有点累了>
 
 <!--
 **Cyl18/Cyl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
