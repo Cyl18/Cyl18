@@ -8,6 +8,9 @@
 <https://steamcommunity.com/id/Cyl18/>
 
 祝好~
+只是 失恋了吧
+你可以看看乖离性面包的 失恋 需要web.archive找找
+
 <!--
 **Cyl18/Cyl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
